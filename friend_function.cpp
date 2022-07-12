@@ -28,6 +28,6 @@ int main()
     c1.display();
     c2.setdata(4,5);
     c2.display();
-    sum = process(c1,c2);
+    sum= process(c1,c2);
     sum.display();
 }

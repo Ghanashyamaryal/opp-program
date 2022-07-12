@@ -13,6 +13,7 @@ void display(){
 
 };
 int main()
+
 {
     x a;
     a.read(2);

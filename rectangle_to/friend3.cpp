@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 class banana;
-class apple;
+
 class apple
 {   private:
     int number_of_apple;
